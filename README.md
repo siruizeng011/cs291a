@@ -1,2 +1,2 @@
-# cs591a
+# cs291a
 This is a course project repo
